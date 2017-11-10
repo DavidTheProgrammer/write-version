@@ -11,7 +11,12 @@ The output is
 `npm install write-version`
 
 ## Usage
+In your `package.json` insert the following script
 ```
-$ write-version -w ./src/assets/version/
+"wv" : "write-version -w ./your-path-here/"
 ```
 
+Then run it by typing 
+```
+npm run wv
+```

@@ -1,0 +1,5 @@
+{
+  "name": "@dtp/write-version",
+  "version": "1.0.0",
+  "exports": "./main.ts"
+}
